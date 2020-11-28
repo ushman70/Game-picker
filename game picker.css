@@ -1,0 +1,34 @@
+.title {
+    text-align: center;
+    text-shadow: 1px 1px 3px skyblue;
+   
+    
+}
+.container {
+ text-shadow: 2px 2px 3px  lightgreen;
+ box-shadow: 3px 5px 5px black;
+ padding-bottom: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+hr {
+    box-shadow: black;
+}
+footer {
+    text-align: center;
+    box-shadow: 3px 5px 5px black;
+    padding: 5px 5px;
+}
+
+
+
